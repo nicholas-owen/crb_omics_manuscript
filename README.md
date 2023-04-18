@@ -20,7 +20,7 @@ __Journal of Pathology 2023__ Apr;259(4):441-454. doi: [10.1002/path.6056](https
 
 In each folder, there is a R script called `main.R`, by running it in R session, in theory all results presented in this repo could be reproduced. Users need to install corresponding R packages, install corresponding R version (4.0.2+).
 
-All analysis within are using Ensembl genome as genomic annotation ([version 98](ftp://ftp.ensembl.org/pub/release-98/)), except for CpG islands information used in ./5.GlobalIntegration, which is downloaded from USCS.
+All analysis within are using Ensembl genome as genomic annotation ([version 98](ftp://ftp.ensembl.org/pub/release-98/)), except for CpG islands information used in ./05_GlobalIntegration, which is downloaded from USCS.
 
 
 
