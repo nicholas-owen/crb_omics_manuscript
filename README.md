@@ -13,7 +13,7 @@ __Journal of Pathology 2023__ Apr;259(4):441-454. doi: [10.1002/path.6056](https
 
 ---
 
-## RRBS-pipeline
+## RRBS data analysis pipeline
 
 
  The code is organised for reviewers and reseachers to validate our analysis result. The RRBS data was generated from control (wt) and _crb2a_<sup>-/-</sup> zebrafish at 56 hpf. The raw NuGen generated bcl file are taken as input. The process of data analysis has been outlined in the following numbered section, indicating the sequence of analysis. Input for subsequent sections often requires results from the formal analysis.
