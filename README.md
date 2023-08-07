@@ -1,6 +1,6 @@
 # CRB Omics Manuscript Repo
 Code for the _crb2a_ multi omics manuscript
-
+[![DOI](https://zenodo.org/badge/380179339.svg)](https://zenodo.org/badge/latestdoi/380179339)
 
 ---
 This is the analysis pipline for the DNA methylation analysis and integration of RNA-seq and methylation (RRBS) data for the manuscript :
